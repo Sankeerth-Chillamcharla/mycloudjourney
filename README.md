@@ -9,5 +9,5 @@
 
 ## Microsoft Azure
 
-- [ ] ☁️ 1 > [Resource Groups](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [Resource Groups](https://github.com/Sankeerth-Chillamcharla/Azure/tree/main/Resource%20Group)
 
